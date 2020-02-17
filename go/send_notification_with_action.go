@@ -9,10 +9,10 @@ import (
 
 func main() {
 
-	// Obtain token -> http://docs.pushe.co/docs/web-api/authentication/
+	// Obtain token -> http://docs.pushe.co/docs/mobile-api/authentication/
 	const token = "YOUR_TOKEN"
 
-	// Doc -> http://docs.pushe.co/docs/web-api/send_notification/
+	// Doc -> http://docs.pushe.co/docs/mobile-api/send_notification/
 
 	reqData := map[string]interface{}{
 		"app_ids":  []string{"YOUR_APP_ID"},

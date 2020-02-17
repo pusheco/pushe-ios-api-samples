@@ -3,7 +3,7 @@
 
 import requests
 
-# Obtain token -> https://pushe.co/docs/api/#api_get_token
+# Obtain token -> http://docs.pushe.co/docs/mobile-api/authentication/
 TOKEN = 'YOUR_TOKEN'
 
 # set header
@@ -12,7 +12,7 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-# Doc -> https://pushe.co/docs/api/
+# Android doc -> http://docs.pushe.co/docs/mobile-api/send_notification/
 
 data = {
     'app_ids': ['YOUR_APP_ID', ],

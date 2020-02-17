@@ -10,8 +10,8 @@ namespace csharp
 {
     class Program
     {
-        // Doc -> http://docs.pushe.co/docs/web-api/send_notification/
-        // Obtain token -> http://docs.pushe.co/docs/web-api/authentication/
+        // Doc -> http://docs.pushe.co/docs/mobile-api/send_notification/
+        // Obtain token -> http://docs.pushe.co/docs/mobile-api/authentication/
         static String token = "YOUR_TOKEN";
 
         static void Main(string[] args)

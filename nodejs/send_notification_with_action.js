@@ -1,9 +1,9 @@
 var request = require('request');
 
-// Obtain token -> http://docs.pushe.co/docs/web-api/authentication/
+// Obtain token -> http://docs.pushe.co/docs/mobile-api/authentication/
 var TOKEN = "YOUR_TOKEN";
 
-// doc -> http://docs.pushe.co/docs/web-api/send_notification/
+// doc -> http://docs.pushe.co/docs/mobile-api/send_notification/
 
 request.post(
     {
