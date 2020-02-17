@@ -1,4 +1,4 @@
-# Pushe Api Android Samples
+# Pushe Android Api Samples
 
 This repository contains a few sample codes for pushe API to kickstart your project.
 
